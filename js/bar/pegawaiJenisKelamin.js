@@ -18,6 +18,18 @@ var options = {
             '',
         ]
     },
+     
+    title: {
+        text: 'Jumlah Petugas Berdasarkan Jenis Kelamin',
+        align: 'center',
+        style: {
+            color: undefined,
+            fontSize: '18px',
+            fontFamily: 'Helvetica, Arial, sans-serif',
+            fontWeight: 400,
+            cssClass: 'apexcharts-xaxis-title',
+        },
+    },
 
 }
 
